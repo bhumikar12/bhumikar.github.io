@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hidden Gems of Ontario"
+excerpt: "The Hidden Gems of Ontario project aims to uncover and showcase the lesser-known attractions, destinations, and experiences in the province of Ontario, Canada. From charming small towns to hidden natural wonders, this project seeks to highlight the unique and off-the-beaten-path places that may not be widely known to tourists or even locals.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
